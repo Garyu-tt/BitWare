@@ -1,0 +1,11 @@
+build/
+__pycache__/
+*.py[cod]
+*.o
+*.so
+*.ptx
+*.cubin
+.env
+.env.*
+!.env.example
+.DS_Store
